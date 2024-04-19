@@ -1,7 +1,7 @@
 function add (numOne, numTwo) {
     if (numOne === undefined || numTwo === undefined) {
         return undefined;
-    }else if (typeof num1 !== "number" || typeof num1 !== "number"){
+    }else if (typeof numOne !== "number" || typeof numTwo !== "number"){
         return undefined;
     }
 

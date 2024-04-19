@@ -1,4 +1,4 @@
-function divide (num1, num2) {
+function divide (numOne, numTwo) {
     if (numOne === undefined || numTwo === undefined) {
         return undefined;
     }
